@@ -1,2 +1,2 @@
 # Hospital-DBMS
-Waiting for Stipend
+Waiting for Stipend...
